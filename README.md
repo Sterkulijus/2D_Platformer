@@ -1,7 +1,7 @@
-I chalange you to complete all 6 levels!
+I challenge you to complete all 6 levels!
 
 
-Warning : the camera is bit slow :D 
+Warning : the camera is a bit slow :D 
 
 
 
