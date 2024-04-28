@@ -1,3 +1,5 @@
+This is my **first game project** created using **Unity** game engine!
+
 I challenge you to complete all 6 levels!
 
 
